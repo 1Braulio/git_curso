@@ -1,6 +1,6 @@
 proyecto
 
-dias de la semana
+dias de la SEMANA
 lunes
 martes
 miercoles
